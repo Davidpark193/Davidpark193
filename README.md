@@ -1,6 +1,6 @@
 - 👋 My name is: David Park,
 - 👀 Pronouns: He/Him,
-- ⚡ I'm: 22 years old,
+- ⚡ I'm: 23 years old,
 - 🌱 I’m currently learning: C, C++ & C#,
 - 💞️ I love: papas fritas,
 - 💻 Favorite lang: Python & Java.
